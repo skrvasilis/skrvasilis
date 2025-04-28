@@ -6,8 +6,9 @@ I enjoy working with technologies like React, Express, JavaScript, and Node.js.
 Full stack developer and Lecturer with deep expertise in JavaScript, specializing in React, Node, Express and MongoDB.
 Experienced in front-end and back-end technologies, API design, unit testing and database management.
 
-🚀 Recent project: [https://iokastimantzog.com/]
+🚀 Recent project: https://iokastimantzog.com/
 
-📫 How to reach me: [skrvasilis@gmail.com] | [https://www.linkedin.com/in/vassilis-skrimpas/] 
+📫 How to reach me: [email] (skrvasilis@gmail.com) | [linkedin] (https://www.linkedin.com/in/vassilis-skrimpas/) 
 
 
+[Duck Duck Go](https://duckduckgo.com).
