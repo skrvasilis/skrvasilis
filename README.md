@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Vassilis Skrimpas
 
-<!--
-**skrvasilis/skrvasilis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Frontend Developer specializing in building dynamic and user-friendly web applications.
+I enjoy working with technologies like React, Express, JavaScript, and Node.js.
 
-Here are some ideas to get you started:
+Full stack developer and Lecturer with deep expertise in JavaScript, specializing in React, Node, Express and MongoDB.
+Experienced in front-end and back-end technologies, API design, unit testing and database management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Recent project: [https://iokastimantzog.com/]
+
+📫 How to reach me: [skrvasilis@gmail.com] | [https://www.linkedin.com/in/vassilis-skrimpas/] 
+
+
