@@ -8,4 +8,4 @@ Experienced in front-end and back-end technologies, API design, unit testing and
 
 🚀 Recent project: https://iokastimantzog.com/
 
-📫 How to reach me: [skrvasilis@gmail.com] | [https://www.linkedin.com/in/vassilis-skrimpas/] 
+📫 How to reach me: skrvasilis@gmail.com | https://www.linkedin.com/in/vassilis-skrimpas/
